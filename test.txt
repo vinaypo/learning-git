@@ -1,6 +1,2 @@
 this is new one
 this should reflect in practice and master
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
